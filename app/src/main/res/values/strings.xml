@@ -74,7 +74,7 @@
 				the emp_name so initializer block uses
 				the default values and
 				print to the standard output.</string>
-    <string name="title_activity_scrolling">scrolling</string>
+    <string name="title_activity_scrolling">Hello Scrolling </string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
 
@@ -168,3 +168,4 @@
 
 
 </resources>
+
